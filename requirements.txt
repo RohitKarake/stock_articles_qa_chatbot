@@ -1,0 +1,11 @@
+langchain
+openai
+huggingface_hub
+python-dotenv
+streamlit
+unstructured==0.9.2
+tiktoken==0.4.0
+faiss-cpu==1.7.4
+libmagic
+python-magic
+python-magic-bin==0.4.14
